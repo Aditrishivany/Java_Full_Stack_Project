@@ -44,7 +44,7 @@ const LandingPage = () => {
               fontSize: isSmallScreen ? '2rem' : 'clamp(2rem, 5vw, 3rem)',
             }}
           >
-            Welcome to dream world
+            Welcome to Dream World
           </Typography>
           <Typography
             variant="h6"
@@ -70,7 +70,7 @@ const LandingPage = () => {
               },
             }}
           >
-            Go to Dashboard
+            Go to Batch 3
           </Button>
         </Box>
 
